@@ -8,7 +8,7 @@ I am a mechatronics student with a passion for designing and building innovative
 
 # Skills
 - Programming Languages: Python, C++
-- Software Tools: TensorFlow, Keras, PyTorch, Arduino, Raspberry Pi
+- Software Tools: TensorFlow, Keras, PyTorch
 
 # Education
 ## Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
