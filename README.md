@@ -11,7 +11,7 @@ I am a mechatronics student with a passion for designing and building innovative
 - Software Tools: TensorFlow, Keras, PyTorch
 
 # Education
-## Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
+** Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
 Contact
 LinkedIn: https://www.linkedin.com/in/laksheet-mathur/
 Email: laksheetmathur2000@gmail.com
