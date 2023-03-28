@@ -7,8 +7,8 @@ I am a mechatronics student with a passion for designing and building innovative
 * Automatic Number plate recognition: Designed to recognise the number plate in a frame, and displays the number plate as text.
 
 # Skills
-## Programming Languages: Python, C++
-## Software Tools: TensorFlow, Keras, PyTorch, Arduino, Raspberry Pi
+- Programming Languages: Python, C++
+- Software Tools: TensorFlow, Keras, PyTorch, Arduino, Raspberry Pi
 
 # Education
 ## Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
