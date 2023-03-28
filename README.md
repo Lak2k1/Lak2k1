@@ -1,4 +1,4 @@
-### Hi there! 👋
+# Hi there! 👋
 I am a mechatronics student with a passion for designing and building innovative systems that combine mechanical and computer engineering. I am also interested in the field of machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
 
 ## Projects
@@ -6,12 +6,12 @@ I am a mechatronics student with a passion for designing and building innovative
 
 * Automatic Number plate recognition: Designed to recognise the number plate in a frame, and displays the number plate as text.
 
-## Skills
-# Programming Languages: Python, C++
-# Software Tools: TensorFlow, Keras, PyTorch, Arduino, Raspberry Pi
+# Skills
+## Programming Languages: Python, C++
+## Software Tools: TensorFlow, Keras, PyTorch, Arduino, Raspberry Pi
 
-## Education
-# Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
+# Education
+## Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
 Contact
 LinkedIn: https://www.linkedin.com/in/laksheet-mathur/
 Email: laksheetmathur2000@gmail.com
