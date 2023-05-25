@@ -9,6 +9,8 @@ I am a mechatronics student with a passion for designing and building innovative
 # Skills
 - Programming Languages: Python, C++
 - Software Tools: TensorFlow, Keras, PyTorch, Transformers
+- Computer Vision
+- NLP
 - Flask
 
 # Specialisation Certifications-
