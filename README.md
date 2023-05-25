@@ -11,9 +11,9 @@ I am a mechatronics student with a passion for designing and building innovative
 - Software Tools: TensorFlow, Keras, PyTorch, Transformers
 - Flask
 
-#Specialisation Certifications-
--Deep Learning Specialisation course- https://www.coursera.org/account/accomplishments/specialization/certificate/E5U2ERKDFH4P
-- IBM Data Science Specialisation- https://www.coursera.org/account/accomplishments/specialization/certificate/3VHUZXEE2EP4
+# Specialisation Certifications-
+- [Deep Learning Specialisation course](https://www.coursera.org/account/accomplishments/specialization/certificate/E5U2ERKDFH4P)
+- [IBM Data Science Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/3VHUZXEE2EP4)
 
 # Education
 * Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
