@@ -2,9 +2,16 @@
 I am a mechatronics student with a passion for designing and building innovative systems that combine mechanical and computer engineering. I am also interested in the field of machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
 
 ## Projects
-* Face detection using VGG16: Developed a face detection model using VGG16 as the backbone of the model architecture. Overcame the challenge of limited image data by applying data augmentation techniques. Utilized the "labelme" library to create bounding boxes for the image dataset. Optimized the model's performance by using TensorFlow libraries to load data in batches.
+Computer Vision projects
+-[Brain Tumor Segmentation](https://github.com/Lak2k1/Brain-Tumor-Segmentation)
+-[Brain Tumor Classification](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning)
+-[Number Plate Recognition](https://github.com/Lak2k1/Number-plate-recognition)
+-[Face Detection](https://github.com/Lak2k1/Face-Detection)
 
-* Automatic Number plate recognition: Designed to recognise the number plate in a frame, and displays the number plate as text.
+Natural Language Processing PROJECTS
+-[Text Summariser](https://github.com/Lak2k1/Text-Summarizer)
+-[E-mail spam classifier)(https://github.com/Lak2k1/E-Mail-spam-classifier)
+-[Fake News Classifier](https://github.com/Lak2k1/Fake-News-Classifier)
 
 # Skills
 - Programming Languages: Python, C++
