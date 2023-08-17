@@ -10,7 +10,7 @@ Computer Vision projects
 
 Natural Language Processing PROJECTS
 - [Text Summariser](https://github.com/Lak2k1/Text-Summarizer)
-- [E-mail spam classifier)(https://github.com/Lak2k1/E-Mail-spam-classifier)
+- [E-mail spam classifier](https://github.com/Lak2k1/E-Mail-spam-classifier)
 - [Fake News Classifier](https://github.com/Lak2k1/Fake-News-Classifier)
 
 # Skills
