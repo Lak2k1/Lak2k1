@@ -3,15 +3,15 @@ I am a mechatronics student with a passion for designing and building innovative
 
 ## Projects
 Computer Vision projects
--[Brain Tumor Segmentation](https://github.com/Lak2k1/Brain-Tumor-Segmentation)
--[Brain Tumor Classification](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning)
--[Number Plate Recognition](https://github.com/Lak2k1/Number-plate-recognition)
--[Face Detection](https://github.com/Lak2k1/Face-Detection)
+- [Brain Tumor Segmentation](https://github.com/Lak2k1/Brain-Tumor-Segmentation)
+- [Brain Tumor Classification](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning)
+- [Number Plate Recognition](https://github.com/Lak2k1/Number-plate-recognition)
+- [Face Detection](https://github.com/Lak2k1/Face-Detection)
 
 Natural Language Processing PROJECTS
--[Text Summariser](https://github.com/Lak2k1/Text-Summarizer)
--[E-mail spam classifier)(https://github.com/Lak2k1/E-Mail-spam-classifier)
--[Fake News Classifier](https://github.com/Lak2k1/Fake-News-Classifier)
+- [Text Summariser](https://github.com/Lak2k1/Text-Summarizer)
+- [E-mail spam classifier)(https://github.com/Lak2k1/E-Mail-spam-classifier)
+- [Fake News Classifier](https://github.com/Lak2k1/Fake-News-Classifier)
 
 # Skills
 - Programming Languages: Python, C++
