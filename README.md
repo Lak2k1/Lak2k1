@@ -13,7 +13,7 @@ I am a mechatronics student with a passion for designing and building innovative
 - [E-mail spam classifier](https://github.com/Lak2k1/E-Mail-spam-classifier)
 - [Fake News Classifier](https://github.com/Lak2k1/Fake-News-Classifier)
 
-### Other projects
+### Classification and Regression projects
 - [Insurance Fraud Detection](https://github.com/Lak2k1/Insurance-Fraud-Detection)
 - [Flight Fare Prediction](https://github.com/Lak2k1/Flight-Fare-Prediction)
 - [Titanic Prediction](https://github.com/Lak2k1/Titanic-Prediction)
