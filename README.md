@@ -26,11 +26,11 @@ I am a mechatronics student with a passion for designing and building innovative
 - NLP
 - Flask
 
-# Specialisation Certifications-
+# Specialisation Certifications
 - [Deep Learning Specialisation course](https://www.coursera.org/account/accomplishments/specialization/certificate/E5U2ERKDFH4P)
 - [IBM Data Science Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/3VHUZXEE2EP4)
 
-# Internship Certifications-
+# Internship Certifications
 - [Internship at LegalMatch AS, Norway](https://drive.google.com/file/d/1juXwcnQszIre5NLcEStsvlH2WXF1198k/view)
 
 
