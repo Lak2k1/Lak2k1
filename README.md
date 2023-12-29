@@ -19,6 +19,10 @@ I am a mechatronics student with a passion for designing and building innovative
 - [Titanic Prediction](https://github.com/Lak2k1/Titanic-Prediction)
 - [Australia Rain Prediction](https://github.com/Lak2k1/Austrailia-Rain-Prediction)
 
+### Some kaggle projects 
+- [IMDB review analysis](https://www.kaggle.com/code/laksheetmathur/transformers-positional-encoding)
+
+
 # Skills
 - Programming Languages: Python, C++
 - Software Tools: TensorFlow, Keras, PyTorch, Transformers
