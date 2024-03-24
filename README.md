@@ -1,5 +1,5 @@
-# Hi there! 👋
-I am a mechatronics student with a passion for designing and building innovative systems that combine mechanical and computer engineering. I am also interested in the field of machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
+# Hi there! 
+I am also interested in the field of machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
 
 ## Projects
 ### Computer Vision projects
@@ -20,8 +20,8 @@ I am a mechatronics student with a passion for designing and building innovative
 - [Australia Rain Prediction](https://github.com/Lak2k1/Austrailia-Rain-Prediction)
 
 ### Some kaggle projects 
-- [IMDB review analysis](https://www.kaggle.com/code/laksheetmathur/transformers-positional-encoding)
-
+- [IMDB review analysis(classification)](https://www.kaggle.com/code/laksheetmathur/transformers-positional-encoding)
+- [Algerian forest fires(regression)](https://www.kaggle.com/code/laksheetmathur/algerian-forest-fires/notebook)
 
 # Skills
 - Programming Languages: Python, C++
