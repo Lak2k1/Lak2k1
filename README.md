@@ -1,5 +1,5 @@
 # Hi there! 
-I am also interested in the field of machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
+I am interested in machine learning, and have experience with popular deep learning libraries such as TensorFlow and Keras.
 
 ## Projects
 ### Computer Vision projects
