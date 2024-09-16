@@ -29,6 +29,7 @@ I am interested in machine learning, and have experience with popular deep learn
 - Computer Vision
 - NLP
 - Flask
+-SQL
 
 # Specialisation Certifications
 - [Deep Learning Specialisation course](https://www.coursera.org/account/accomplishments/specialization/certificate/E5U2ERKDFH4P)
@@ -40,9 +41,8 @@ I am interested in machine learning, and have experience with popular deep learn
 
 # Education
 * B.Tech in MME, LNMIIT.
-## Coding profile-
+## Coding profile
 * Leetcode- https://leetcode.com/u/laksheetmathur2000/
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/laksheet-mathur/
 * Email: laksheetmathur2000@gmail.com
-Feel free to reach out to me for collaborations, project ideas, or job opportunities.
