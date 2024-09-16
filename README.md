@@ -39,7 +39,9 @@ I am interested in machine learning, and have experience with popular deep learn
 
 
 # Education
-* Bachelor of Technology in Mechatronics Engineering, LNMIIT, expected graduation date: 2024.
+* B.Tech in MME, LNMIIT.
+## Coding profile-
+* Leetcode- https://leetcode.com/u/laksheetmathur2000/
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/laksheet-mathur/
 * Email: laksheetmathur2000@gmail.com
