@@ -1,6 +1,11 @@
 # Hi there! 
 
 ## Projects
+
+### Recent Projects
+-[Telecom Churn Prediction]{https://github.com/Lak2k1/Telecom-Churn-Prediction}
+-[Food Delivery ETA Prediction]{https://github.com/Lak2k1/Food-Delivery-ETA-Prediction}
+
 ### Computer Vision projects
 - [Brain Tumor Segmentation](https://github.com/Lak2k1/Brain-Tumor-Segmentation)
 - [Brain Tumor Classification](https://github.com/Lak2k1/Brain-Tumor-Classification-using-Deep-Learning)
